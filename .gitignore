@@ -55,7 +55,7 @@ out/
 bin/
 tmp/
 .metadata
-
+test-output/
 *.tmp
 *.bak
 *.swp

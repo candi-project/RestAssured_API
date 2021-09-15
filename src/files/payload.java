@@ -27,7 +27,7 @@ public class payload {
 				+ "\n"
 				+ "\"dashboard\": {\n"
 				+ "\n"
-				+ "\"purchaseAmount\": 910,\n"
+				+ "\"purchaseAmount\": 100910,\n"
 				+ "\n"
 				+ "\"website\": \"rahulshettyacademy.com\"\n"
 				+ "\n"
