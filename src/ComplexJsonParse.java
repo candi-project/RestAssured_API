@@ -39,6 +39,7 @@ public class ComplexJsonParse {
 			if(courseTitle.equalsIgnoreCase("RPA")) {
 				int copies=js.get("courses["+i+"].copies");
 				System.out.println(copies);
+				break;
 			}
 	        
 		}
